@@ -1,0 +1,32 @@
+body {
+    background-color: #cfb20e9f; 
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 20px;
+    text-align: justify; 
+}
+h1 {
+    color: rgb(4, 8, 252);
+    text-align: center; 
+}
+h2 {
+    color: rgb(4, 8, 252);
+}
+p {
+    color: #333; 
+    line-height: 1.6; 
+}
+nav ul {
+    list-style-type: none; 
+    padding: 0;
+}
+nav ul li {
+    margin: 5px 0;
+}
+nav ul li a {
+    text-decoration: none; 
+    color: darkblue; 
+}
+nav ul li a:hover {
+    color: darkred; 
+}
